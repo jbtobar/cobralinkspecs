@@ -58,7 +58,7 @@ Flujo "No me Interesa"/"Llamame"/"Aprende Mas" -> "Fin"
 
 ### Reqs Base de Datos
 
-1. - [ ]
+1. - [ ] Base de datos relacional MySQL
 2. - [ ] Tablas para Base Madre (Deudas), Campanas
 
 ### Reqs Infrastructura Blockchain
