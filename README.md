@@ -5,12 +5,13 @@ Requerimientos Funcionales escritos por Juan Bernardo Tobar (JBT).
 
 Este documento describe los requerimientos del proyecto de LINK Cobra que JBT propone desarrollar. Este documento refleja de manera completa los requerimientos. Esto significa que si se responde 'Si' a todos los items en esta lista formulados de la manera; "*es verdad que___________?*" esta etapa del proyecto se da por terminado y JBT tiene derecho a cobrar los precios mencionados en cada sección.
 
-Resumen:
+**Resumen**
+*Costos Iniciales*
  - Dashboard: 2k USD
  - Campaña ("Flujo de Pago"): 3k USD
  - Back-end: Incluido en costo de "Campaña"
 
-
+*Costos Mensuales*
  - Costo Mensual Fijo: 100 USD para mantener todos lo requerimientos en este documento
  - Costo Mensual Variable: Costo a proveedores terceros de infraestructura, servicios que incluyen la mantención de los requerimientos en este documento son a 100 USD x hora.
 ---
